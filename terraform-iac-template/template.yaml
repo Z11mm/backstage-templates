@@ -6,8 +6,8 @@ metadata:
   description: Create a new Terraform project
   tags:
     - terraform
-    - IaC
-    - SRE
+    - iac
+    - sre
 spec:
   owner: sre@example.com
   type: service
