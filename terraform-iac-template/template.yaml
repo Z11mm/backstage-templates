@@ -61,7 +61,7 @@ spec:
       name: Fetch Docs
       action: fetch:plain
       input:
-        url: ./skelton/docs
+        url: ./skeleton/docs
 
 
     - id: publish
